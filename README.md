@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk2dTc2dTk0dDR2cTc3aXZmeTZvdnlibnA5Nm94cWRoNmxvdDJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" 
+  <img src="https://media.lordicon.com/icons/wired/outline/743-web-code.gif" 
        alt="banner animado" 
-       width="900" 
-       height="500"/>
+       height="600"/>
 </p>
 
 # 👋 ¡Hola! Soy **Pau Albarracín Granell**
