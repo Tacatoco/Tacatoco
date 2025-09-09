@@ -27,4 +27,4 @@ Mi objetivo es ir mejorando y poco a poco construir proyectos más completos.
 
 ## 📫 Contacto
 - 📧 Email: **paualbarracingranell@gmail.com**  
-- 💼 LinkedIn: [Perfil] (https://www.linkedin.com/in/pau-albarracin-granell-297ba2363)
+- 💼 LinkedIn: (https://www.linkedin.com/in/pau-albarracin-granell-297ba2363)
