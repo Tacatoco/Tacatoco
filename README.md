@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Pau Albarracín Granell  
 
-<!--
-**Tacatoco/Tacatoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **2º Desarrollo de Aplicaciones Web (DAW)**  
+💻 Apasionado por la programación, el desarrollo web y el aprendizaje constante.  
+🚀 Enfocado en mejorar mis habilidades en **backend, bases de datos y buenas prácticas**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,github,vscode" />
+</p>
+
+---
+
+## 📚 Ejercicios y prácticas
+En este repositorio encontrarás principalmente **ejercicios de clase** y pequeñas prácticas realizadas durante el ciclo formativo de DAW.  
+Mi objetivo es ir mejorando y poco a poco construir proyectos más completos.  
+
+---
+
+## 📊 Estadísticas
+![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
+
+---
+
+## 📫 Contacto
+- 📧 Email: **paualbarracingranell@gmail.com**  
+- 💼 LinkedIn: [Perfil] (https://www.linkedin.com/in/pau-albarracin-granell-297ba2363)
