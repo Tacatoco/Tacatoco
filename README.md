@@ -51,6 +51,6 @@ Mi objetivo es ir mejorando día a día y crear proyectos más completos a futur
   📧 **paualbarracingranell@gmail.com** </p>
 
 <p align="center">
-   💼 [LinkedIn](https://www.linkedin.com/in/pau-albarracin-granell)   </p>  
+   💼 (https://www.linkedin.com/in/pau-albarracin-granell)   </p>  
  
 
