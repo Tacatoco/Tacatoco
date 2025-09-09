@@ -1,6 +1,5 @@
-<!-- Banner opcional -->
 <p align="center">
-  <img src="https://i.imgur.com/7b1v2.png" alt="banner" width="600"/>
+  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="banner" width="600"/>
 </p>
 
 # 👋 ¡Hola! Soy **Pau Albarracín Granell**
