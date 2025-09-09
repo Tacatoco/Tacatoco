@@ -40,8 +40,8 @@ Mi objetivo es ir mejorando día a día y crear proyectos más completos a futur
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tacatoco&show_icons=true&theme=radical&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tacatoco&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
