@@ -61,4 +61,4 @@ En cuanto tenga proyectos completos los compartiré aquí.
 
 ---
 
-> 💡 *Este perfil está en construcción. Estoy aprendiendo, practicando y pronto compartiré mis primeros proyectos completos. ¡Vamos a por todas!*
+> 💡 *Este perfil está en construcción. Estoy aprendiendo, practicando y pronto compartiré mis primeros proyectos completos. 
