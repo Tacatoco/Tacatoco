@@ -57,7 +57,7 @@ Repositorios públicos de ejercicios y prácticas de DAW:
 
 ## 🌐 Contacto
 <p align="center">
-  📧 [paualbarracingranell@gmail.com](mailto:paualbarracingranell@gmail.com) <br/>
+  📧 <a href="mailto:paualbarracingranell@gmail.com">paualbarracingranell@gmail.com</a> <br/>
   <a href="https://www.linkedin.com/in/pau-albarracin-granell">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
