@@ -43,8 +43,9 @@ Mi objetivo es ir mejorando día a día y crear proyectos más completos a futur
 ## 📊 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tacatoco&show_icons=true&theme=radical&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tacatoco&layout=compact&theme=radical&langs_count=8&hide=shell,batch" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tacatoco&layout=compact&theme=radical&langs_count=10&hide=shell,batch" height="160"/>
 </p>
+
 
 
 ---
