@@ -1,14 +1,13 @@
 <p align="center">
   <img src="https://media.lordicon.com/icons/wired/outline/743-web-code.gif" 
        alt="banner animado" 
-       height="450"/>
+       height="400"/>
 </p>
 
-# 👋 ¡Hola! Soy **Pau Albarracín Granell**
+# 👋 Pau Albarracín Granell
 
-💻 Estudiante de **2º Desarrollo de Aplicaciones Web (DAW)**  
-🎯 Apasionado por la programación y el aprendizaje constante  
-💡 Transformando ideas en código, día a día  
+**Estudiante 2º Desarrollo de Aplicaciones Web (DAW)**  
+**Stack:** Java, HTML, CSS, JavaScript  
 
 ---
 
@@ -25,20 +24,20 @@
 ---
 
 ## 🚧 En progreso
-Actualmente estoy desarrollando prácticas y ejercicios de DAW.  
-En cuanto tenga proyectos completos los compartiré aquí.  
+Repositorios públicos de ejercicios y prácticas de DAW:  
+
 - Mini-proyectos web (HTML, CSS, JS)  
 - Ejercicios de Java y bases de datos  
-- Preparando mis primeros proyectos personales 🚀
+- Repositorios de práctica personal  
 
 ---
 
 ## 🎯 Objetivos a corto plazo
 <p align="center">
-  <img src="https://img.shields.io/badge/-Aprender JavaScript avanzado-ffcc00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Dominar bases de datos-00ccff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Crear proyectos propios-ff6699?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Contribuir en GitHub-33cc33?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-JS avanzado-ffcc00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Bases de datos-00ccff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Proyectos propios-ff6699?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-GitHub-33cc33?style=for-the-badge"/>
 </p>
 
 ---
@@ -47,6 +46,11 @@ En cuanto tenga proyectos completos los compartiré aquí.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tacatoco&show_icons=true&theme=radical&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tacatoco&layout=compact&theme=radical&langs_count=10&hide=shell,batch" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tacatoco&style=flat-square&color=blue" alt="visitas"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tacatoco&theme=radical" alt="streak"/>
 </p>
 
 ---
@@ -58,7 +62,3 @@ En cuanto tenga proyectos completos los compartiré aquí.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-> 💡 *Este perfil está en construcción. Estoy aprendiendo, practicando y pronto compartiré mis primeros proyectos completos. 
