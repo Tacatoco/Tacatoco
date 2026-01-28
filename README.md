@@ -48,7 +48,6 @@ Repositoris públics d’exercicis i pràctiques de DAW:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tacatoco&style=flat-square&color=blue" alt="visites"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tacatoco&theme=radical" alt="streak"/>
 </p>
 
 ---
