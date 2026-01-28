@@ -21,8 +21,8 @@ Pau Albarracín Granell
 ## 🚧 En progrés
 Repositoris públics d’exercicis i pràctiques de DAW:  
 
-- Mini-projectes web (HTML, CSS, JS)  
-- Exercicis de Java i bases de dades  
+- Projectes web amb VUE || React  
+- Exercicis de Spring amb model MVC  
 - Repositoris de pràctica personal  
 
 ---
