@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://media.lordicon.com/icons/wired/outline/743-web-code.gif" 
-       alt="banner animado" 
-       height="400"/>
-</p>
 
-# 👋 Pau Albarracín Granell
+Pau Albarracín Granell
 
 **Estudiant 2º Desenvolupament d'Aplicacions Web (DAW)**  
 **Stack:** Java, HTML, CSS, JavaScript  
